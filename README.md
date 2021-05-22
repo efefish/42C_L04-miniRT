@@ -1,1 +1,3 @@
-# 42C_L04-miniRT
+# 42Cursus project Level4 "miniRT"
+
+## Description
