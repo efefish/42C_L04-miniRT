@@ -14,5 +14,7 @@
     open, close, read, write, printf, malloc, free, perror, strerror, exit
     All functions of the math library (-lm man man 3 math)
     All functions of the MinilibX
-    
-   <img src="attach:2021-04-27_8.34.27 (2)">
+
+### sample images
+<img src=https://github.com/efefish/42C_L04-miniRT/blob/main/sample_img/2021-04-27_8.34.27%20(2).png>
+<img src=https://github.com/efefish/42C_L04-miniRT/blob/main/sample_img/2021-04-27_8.48.57%20(2).png>
